@@ -2,10 +2,11 @@
 
 ![Striped](assets/readme_1.png)
 
-Striped by [HTML5UP](http://www.html5up.net), features a clean, minimalistic design, styling for all basic page elements, a repositionable sidebar (left or right), and HTML5/CSS3 code designed for quick and easy customization.
+Our website is called Striped by [HTML5UP](http://www.html5up.net) .This later, has a clean features , minimalistic design , styling for all basic page elements, a repositionable sidebar (left or right).  Our website , is dedicated to everyone who look for a template with its code HTML5/ CSS3 of a website .  
+
 
 # Features
-
+our website is composed with :
 * HTML5 and CSS3
 * Fully Responsive
 * Various templates for presenting your content
