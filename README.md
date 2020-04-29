@@ -1,3 +1,5 @@
+I recommand you to do a mobile application to your project so that it will be more usable for the user. 
+
 # Striped Theme for Grav
 
 ![Striped](assets/readme_1.png)
